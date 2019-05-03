@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    color:#fff;
+    /* font-size: 20px; */
+}   
+
+body{
+    background:#111b21;
+}
+header h1, header h2{
+    text-align: center;
+    margin:20px;
+}
+main{
+    width:600px;
+    margin:auto;
+    text-align: center;
+}
+.story{
+    font-size: 20px;
+}
+.output p{
+    font-size: 20px;
+}
+.story,.output,.usage{
+    margin:20px;
+}
+.usage a{
+    padding:20px;
+
+    font-size: 20px;
+}
+.owner a{
+    font-size: 20px;
+}
